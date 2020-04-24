@@ -1,5 +1,5 @@
 # Covid-19 Death Prediction
-- A Neural Network that Predicts Covid-19 Deaths
+- Neural Network that Predicts Covid-19 Deaths
 
 ## About the Dataset
 
